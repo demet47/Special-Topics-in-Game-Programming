@@ -6,7 +6,7 @@ public class PlayerMove : MonoBehaviour
 {
      
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if(Input.GetKey(KeyCode.RightArrow)){
             this.gameObject.GetComponent<Rigidbody>().AddForce(-0.5f,0,0,ForceMode.Impulse);
