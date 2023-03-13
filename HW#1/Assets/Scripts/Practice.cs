@@ -6,7 +6,6 @@ public class Practice : MonoBehaviour
 {
 
     public Vector3 force;
-    public Collider collider;
     // Start is called before the first frame update
     void Start()
     {
