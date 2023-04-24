@@ -13,6 +13,9 @@ Player can move right, left, forward, backward. It cannot jump. It cannot pass t
 
 The path between key and the door is as below:
 
+![image](https://user-images.githubusercontent.com/64031659/234134763-05dbc9ef-864f-4d83-8efd-aed4047e2cff.png)
+
+
 Winning coniditon is making the key collide with the door object without colliding with any missiles thrown by the machines.
 
 The background music can be turned on-off by pressing the _"space"_ key on the keyboard.
